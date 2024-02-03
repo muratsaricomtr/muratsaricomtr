@@ -1,16 +1,30 @@
-### Hi there 👋
+# Murat Sarı
 
-<!--
-**muratsaricomtr/muratsaricomtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Hi there! I'm Murat, a passionate full-stack developer with a love for creating innovative and user-friendly web applications. I have a strong foundation in both frontend and backend technologies and enjoy working on diverse projects that challenge and expand my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages:** PHP, JavaScript, Java
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Technologies:** Git, Docker, Webpack
+- **Other:** RESTful APIs, GraphQL, CI/CD, Elasticsearch
+
+## 📝 Blog
+
+I occasionally write about my experiences, projects, and tech-related topics on my [blog](https://muratsari.com.tr). Check it out for some insightful content!
+
+## 📫 Contact
+
+- **GitHub:** [muratsaricomtr](https://github.com/muratsaricomtr)
+- **LinkedIn:** [Murat Sarı](https://www.linkedin.com/in/muratsari)
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects. Feel free to reach out if you have any opportunities, questions, or just want to say hi!
+
+---
+
+Thanks for visiting my GitHub profile! 😊
+
